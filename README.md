@@ -161,6 +161,7 @@ _Plugins that don't particularly fit in with any existing category._
 - [Citizens](https://github.com/CitizensDev/Citizens2) - Plugin and API for creating service side NPCs.
 - [CraftBook](https://enginehub.org/craftbook/) - Plugin that adds many new fun mechanics to the game with extreme levels of customisability.
 - [EssentialsX](https://github.com/EssentialsX/Essentials) - Plugin suite providing essential commands and features, updated for the latest Minecraft versions.
+- [Kryptonite](https://github.com/LewMC/Kryptonite) - Plugin that manages optimization of server configuration files to reduce lag.
 - [ProtocolSupport](https://github.com/ProtocolSupport/ProtocolSupport) - Support older Minecraft versions.
 - [ViaVersion](https://github.com/ViaVersion/ViaVersion) - Allows the connection of newer clients to older server versions for Minecraft servers.
 
